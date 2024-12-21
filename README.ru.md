@@ -1,6 +1,6 @@
 # Backend Приложение с топ стэком для микросервесной архитектуры
 ## Микросервис - Admin
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/BornToNight/admin/blob/admin/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/BornToNight/admin/blob/main/README.md)
 
 Цель проекта - потренироваться с самым популярным стэком для Java/Kotlin разработчика (ИМХО).
 
