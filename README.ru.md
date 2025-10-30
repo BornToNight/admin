@@ -7,7 +7,7 @@
 ### Микросервисы:
 - [proto-common](https://github.com/BornToNight/proto-common)
   - Базовые классы gRPC (**main** и **reader**).
-- [**main**](https://github.com/BornToNight/main) (:5001)
+- [main](https://github.com/BornToNight/main) (:5001)
   - Основной сервис, front (postman) общается **ТОЛЬКО** с main. Включает в себя **docker-compose** и **k8s** конфиги.
 - [writer](https://github.com/BornToNight/writer) (:5002)
   - Микросервис для практики по работе с **Kafka**. Получает сообщения из Kafka и записывает в PostgreSQL.
